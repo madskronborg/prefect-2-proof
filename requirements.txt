@@ -1,0 +1,5 @@
+prefect>=2.0b
+pydocstyle
+bandit
+httpx
+black
